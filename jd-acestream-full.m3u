@@ -20,6 +20,8 @@ acestream://5789ca155323664edd293b848606688edf803f4d
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1,DAZN F1 [1080p]
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1,DAZN F1 [UHD]
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #
 #EXTINF:-1,DAZN 1 [1080]
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -112,6 +114,15 @@ acestream://446e73a22582921393b020ed08b768ad8e14d754
 #EXTINF:-1,LaLiga HyperMotion 8
 acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 
+#EXTINF:-1,DAZN LIGA F 1
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1,DAZN LIGA F 2
+acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1,DAZN LIGA F 3
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1,DAZN LIGA F 4
+acestream://e454681a152a86da504e63694f17f90d0586867d
+
 #EXTINF:-1,M. Deportes [1080]
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1,M. Deportes [720]
@@ -166,8 +177,7 @@ acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1,ESPORT 3 CAT [1080p]
 acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
 #EXTINF:-1,REAL MADRID TV [1080]
-acestream://0827cf7d290967985892965c6e61244a479d6dcd
-
+acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
 #EXTINF:-1,Tennis Channel
 acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1,EuroSport 1 [1080]
@@ -474,16 +484,3 @@ acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd
 acestream://33b428a9cec1d7d2cd2809d8e49a687e167378a6
 #EXTINF:-1,BT SPORT 3 UK	
 acestream://66ce42b59cd7028be149ee7e7ca17066910b2db3
-
-#EXTINF:-1,Gol Mundial canal 1
-acestream://78384a676407784df944243eb2f75d937fbcc253
-#EXTINF:-1,Gol Mundial 1
-acestream://2288e220d02b9d0364a95a36087a45d9ecb9e2b4
-#EXTINF:-1,Gol Mundial 2
-acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1,Gol Mundial 2 
-acestream://a248e0e3649b135d3e3a806874153f8bccd32e4a
-#EXTINF:-1,Gol Mundial 3
-acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1,Gol Mundial 4
-acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
